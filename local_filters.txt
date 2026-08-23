@@ -1,0 +1,103 @@
+! general rule to disable brave dark theme on site with built-in dark theme
+*##:root:style(color-scheme: light dark !important;)
+
+! 11 Aug 2024 https://www.wired.com
+www.wired.com##.jXCwHb.PaywallBarCollapsedContent-bPyKsX
+www.wired.com##.dkAtsv.PaywallBarContentContainer-geBYFf
+www.wired.com##.mobile.dyxCKb.PaywallBarWrapper-hbEokK
+www.wired.com###\34 16dcb-9aeb-b7de-9391-bb193bcc6230
+
+! 29 Aug 2024 https://www.reddit.com
+www.reddit.com##.pt-\[var\(--page-y-padding\)\].overflow-visible > shreddit-async-loader
+www.reddit.com##div[class*="bottom-sheet"]
+
+! 30 Aug 2024 https://forum.lowyat.net
+||pictr.com/images/2024/06/15/x7nsJr.jpg$image
+
+! 18 Oct 2024 https://m.facebook.com
+m.facebook.com##.bottom.fixed-container.m
+
+! 18 Oct 2024 https://www.techradar.com
+www.techradar.com##.newsletter-form__wrapper--exitIntent.newsletter-form__wrapper
+
+! 3 Dec 2024 https://www.reddit.com login notif after clicking "view more comments" on mobile reddit
+www.reddit.com###main-content > .absolute
+
+form.typeform.com/to/GSXKxiHz*
+nameproscdn.com/images/backers2/*
+
+assets.bharian.com.my/assets/stroke.png
+
+! 5 May 2025 https://www.namepros.com
+||nameproscdn.com/images/backers2/*$image
+
+! 5 May 2025 https://dnjournal.com
+||dnjournal.com/dnjournal/elements/*$image
+
+! 5 May 2025 https://domain.news
+domain.news##.__home_2.wpcom_myimg_wrap > [href="http://tracking.payoneer.com/SH5uM"]
+
+! 6 May 2025 https://tldes.com
+||tldes.com/lib/img/*$image
+
+! 7 May 2025 https://ip.sb
+||ip.sb/assets/images/*$image
+
+! 12 May 2025 https://domainincite.com
+||domainincite.com/images/*$image
+
+! 12 May 2025 https://domain.news
+||domain.news/wp-content/uploads/2025/03/2025*$image
+
+! 04 July 2025 https://bharian.com.my
+bharian.com.my##[src*="https://www.bharian.com.my/assets/summary-home-btn.png"]
+bharian.com.my##.icofont-close
+bharian.com.my##.close-btn.btn.itracking
+
+! 05 July 2025 https://dnjournal.com
+dnjournal.com##div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(5) > td:nth-of-type(1) > div:nth-of-type(1) > center:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(1)
+dnjournal.com##div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(5) > td:nth-of-type(1) > div:nth-of-type(1) > center:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(5)
+dnjournal.com##[src*="ads/godaddy/2025/default/di-new-720.png"]
+dnjournal.com##div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(5) > td:nth-of-type(1) > div:nth-of-type(1) > center:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(2) > div:nth-of-type(1) > table > tbody > tr:nth-of-type(7) > td > p
+dnjournal.com##div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(5) > td:nth-of-type(1) > div:nth-of-type(1) > center:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(2) > div:nth-of-type(1) > table > tbody > tr:nth-of-type(12) > td > p
+dnjournal.com##div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(5) > td:nth-of-type(1) > div:nth-of-type(1) > center:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(3) > p
+dnjournal.com##[src*="ads/it.com/2025/06-27/693f1bf7-288c-4890-85ba-14465fe6fe12.png"]
+dnjournal.com##div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td
+
+! 05 July 2025 https://xhamster.com
+xhamster.com##.d71cd252._63b8f8a1
+xhamster.com##.FbRC-SvABZcam-thumb.FbRC-SvABZcam-thumb--big.mobile-video-thumb > .thumb-image-container.item-container
+xhamster.com##.FbRC-SvABZpremium-n-overlay.fixed-height.middle-mobile-horizontal > .mobileHorizontal-a85ac > .header-a85ac
+xhamster.com##.FbRC-SvABZpremium-n-overlay.fixed-height.middle-mobile-horizontal > .mobileHorizontal-a85ac > .scrollable-a85ac > .itemContainer-a85ac
+xhamster.com##.FbRC-SvABZpremium-n-overlay.fixed-height.middle-mobile-horizontal > .mobileHorizontal-a85ac > .scrollable-a85ac
+xhamster.com##.mobileHorizontal-a85ac.small-a85ac > .header-a85ac
+xhamster.com##.mobileHorizontal-a85ac.small-a85ac > .scrollable-a85ac
+xhamster.com##.FbRC-SvABZ.FbRC-SvABZ--middle.FbRC-SvABZno-ts-init
+xhamster.com##.fa292e2e._5ea22b09
+xhamster.com##.SNFL-gUpremium-n-overlay.fixed-height.middle-mobile-horizontal > .mobileHorizontal-a85ac > .scrollable-a85ac > .itemContainer-a85ac
+xhamster.com##.SNFL-gUpremium-n-overlay.fixed-height.middle-mobile-horizontal > .mobileHorizontal-a85ac > .header-a85ac
+xhamster.com##.SNFL-gUpremium-n-overlay.fixed-height.middle-mobile-horizontal > .mobileHorizontal-a85ac > .scrollable-a85ac
+xhamster.com##.SNFL-gU.SNFL-gU--middle.SNFL-gUno-ts-init
+
+! 05 July 2025 https://1337x.to
+1337x.to##div.box-info.filter-list:nth-of-type(2) > .box-info-heading
+1337x.to###l5b2c8b84c89c2ca31f0df507ca280c97758164e1 > div:nth-of-type(2)
+1337x.to###l17581d50b6260521bde58c4d37111774c3507b47
+1337x.to##[src*="https://limeiptv.to/static/b1.gif"]
+
+! 06 July 2025 https://gsmarena.com
+m.gsmarena.com##.d-flex.flex-column.justify-center.align-center
+
+! 03 March 2026 https://namepros.com
+www.namepros.com##[id^="_xfUid-"] picture
+www.namepros.com##.p-body-pageContent > .listing-container.npgen
+www.namepros.com##.notices.notices--block.js-notices > .notice.js-notice.notice--primary > .notice-content
+www.namepros.com##.content
+www.namepros.com##.branding
+www.namepros.com##.listing-container.npgen
+www.namepros.com##.notice.js-notice.notice--primary.notice--hasImage
+www.namepros.com##.search-box > .input
+www.namepros.com##.np-domain-search-inner
+
+! 04 March 2026 https://domainnamewire.com
+domainnamewire.com##div.after-entry section.widget_text:has(center a)

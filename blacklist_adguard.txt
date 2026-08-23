@@ -1,0 +1,65 @@
+# yahoomail android app
+#||b.gemini.yahoo.com^
+#||m.yap.yahoo.com^
+#||s.yimg.com^
+#||analytics.query.yahoo.com^
+#||data.flurry.com^
+
+# yandex
+||appmetrica.yandex.ru^
+
+# ads on malaysian news portal
+# vodus
+||vodus.com^
+||voduscdn.azureedge.net^
+||vodus-api.azurewebsites.net^
+||vodus-api-serverless.azurewebsites.net^
+
+# ads on malaysian news portal
+||revmedia.my^
+
+||m2appinsight.com^
+||m2mobileinsights.com^
+
+# shopee malaysia
+||userstats.shopee.com.my^
+||tracking.shopee.com.my^
+
+||platform-api.sharethis.com^
+
+# google analytics
+||firebase-settings.crashlytics.com^
+
+# reddit
+||alb.reddit.com^
+
+# block dns doh request
+||use-application-dns.net^
+
+# moomoo on lowyat forum
+||moomoo.com^
+
+# viatnamese source for scam ads used in malaysia
+||dns.ladipage.com^
+
+# mediaprima malaysian news
+||ad.mediaprimaplus.com.my^
+||podcast.mediaprimalabs.com^
+
+# facebook graph
+||graph-fallback.facebook.com^
+||payments-graph.facebook.com^
+||b-graph-fallback.facebook.com^
+||graph.fbpigeon.com^
+
+# vivaldi crash analytic server
+||anr-stacktrace-upload.vivaldi.com^
+
+# tonton ads on malaysian site
+||headend-api.tonton.com.my^
+
+# unitar ads on astoawani
+||form.typeform.com/to/GSXKxiHz^
+
+# spotify
+#||spclient.wg.spotify.com^

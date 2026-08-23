@@ -1,0 +1,39 @@
+# for syncgene android app
+#bat.bing.com^$important
+#www.google-analytics.com
+#analytics.google.com
+# pcloud
+pcloud.com
+# umami analytic
+umami.is
+# twitter
+t.co
+# disney+
+geolocation.onetrust.com
+# taptap
+tapimg.net
+# 1337x torrent
+1337x.to
+1337xx.to
+1337x.tw
+# email newsletter unsubscribe
+trk.fresent.com
+# bypass admiral anti adblock
+succeedscene.com
+# android dot connectivity check *-dnsotls-ds.metric.gstatic.com
+metric.gstatic.com
+# windscribe vpn
+whiskergalaxy.com
+# riseup
+riseup.net
+# spotify verification link
+wl.spotify.com
+# celcomdigi app whitelist for deals page
+appsflyersdk.com
+braze.eu
+# bashupload cli upload and download
+bashupload.com
+# wise email unsubscribe link
+ablink.info.wise.com
+# digg email unsubscribe link
+os-unsub-en.com
