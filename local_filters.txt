@@ -108,3 +108,4 @@ forum.lowyat.net###lmg-rail-wrap
 
 ! 09 September 2026 https://domainnamewire.com
 domainnamewire.com##.after-header
+domainnamewire.com###genesis-sidebar-primary
