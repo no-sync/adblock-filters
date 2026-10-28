@@ -109,3 +109,7 @@ forum.lowyat.net###lmg-rail-wrap
 ! 09 September 2026 https://domainnamewire.com
 domainnamewire.com##.after-header
 domainnamewire.com###genesis-sidebar-primary
+
+! 28 October 2026 https://lowendspirit.com
+lowendspirit.com##*:matches-attr("class"=/^[a-z0-9]+[a-z0-9] [a-z0-9]+[a-z0-9]$/)
+lowendspirit.com###LesOffersPanel
